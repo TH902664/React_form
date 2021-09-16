@@ -1,0 +1,10 @@
+.login {
+  background: none;
+  border-radius: 15px;
+  padding: 60px 0;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.bt-Submit {
+  margin: 0 20px 20px 0;
+}

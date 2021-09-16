@@ -1,5 +1,13 @@
+import TextField from "src/components/TextField/TextField";
+
 const ForgotPassword = () => {
-  return <div>"ForgotPassword"</div>;
+  return (
+    <TextField
+      label="Email address"
+      placeholder="Please Enter User Name or Email"
+      type="email"
+    />
+  );
 };
 
 export default ForgotPassword;
